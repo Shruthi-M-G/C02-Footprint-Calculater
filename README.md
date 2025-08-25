@@ -12,3 +12,6 @@ Tech Stack Used
   HTML5 – Structure
   CSS3 – Styling & UI design
   JavaScript (Vanilla JS) – Logic & calculations
+
+
+  live:https://shruthi-m-g.github.io/C02-Footprint-Calculater/
